@@ -2,7 +2,7 @@
 
 ## What this repository will contain ?
 
-If you are not French you don't know but there is a website that showed in July 2022 if I'm correct that choose randomly a streamer each 10 mins with less than 5 active viewers to embed its stream in the website and let anyone watch it(you can write in their chat etc.. you just need to connect your twitch account)
+If you are not French you don't know but there is a website that showed in July 2022 if I'm correct that choose randomly a streamer each `10 mins` with less than `5 active viewers` and that is streaming for at least `15 mins` to embed its stream in the website and let anyone watch it(you can write in their chat etc.. you just need to connect your twitch account)
 
 ## When will it be published ?
 
