@@ -6,7 +6,7 @@ If you are not French you don't know but there is a website that showed in July 
 
 ## When will it be published ?
 
-I don't know probably a week !
+I don't know, they told me they planned a repository for it so I will wait and if it doesn't come out I will release my version !
 
 ## Goals ?
 
